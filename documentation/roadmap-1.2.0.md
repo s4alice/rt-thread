@@ -19,8 +19,6 @@ The document will be wroten in Chinese firstly. At least when RT-Thread 1.2.0 ha
 - Other BSP.
   * welcome contributions. 
 
-### New features on Components ###
-
 - device IPC
   * implement the work queue[2].
   * implement the rwlock[3].
